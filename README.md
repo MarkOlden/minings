@@ -8,10 +8,10 @@
     <tr>
         <td></td>
         <td>Month</td>
+        <td>Mine 1</td>
         <td>Mine 2</td>
         <td>Mine 3</td>
         <td>Mine 4</td>
-        <td>Mine5</td>
         <td>Mine 5</td>
     </tr>
     <tr>
