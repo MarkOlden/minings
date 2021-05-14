@@ -4,20 +4,117 @@
 ежемесячные объёмы добычи угля по каждой шахте (столбец – шахта, строка –
 месяц).
 
-|         | Mine 1 | Mine 2 | Mine 3 | Mine 4 | Mine 5 |
-|---------|--------|--------|--------|--------|--------|
-| **Jan** | 120    | 110    | 210    | 100    | 150    |
-| **Feb** | 130    | 100    | 180    | 110    | 150    |
-| **Mar** | 100    | 100    | 190    | 100    | 140    |
-| **Apr** | 90     | 120    | 200    | 120    | 140    |
-| **May** | 120    | 100    | 150    | 110    | 130    |
-| **Jun** | 130    | 100    | 120    | 120    | 130    |
-| **Jul** | 140    | 110    | 90     | 110    | 130    |
-| **Aug** | 120    | 110    | 90     | 100    | 120    |
-| **Sep** | 170    | 100    | 80     | 110    | 130    |
-| **Oct** | 100    | 100    | 70     | 100    | 140    |
-| **Nov** | 140    | 120    | 70     | 110    | 110    |
-| **Dec** | 160    | 100    | 80     | 120    | 90     |
+<table>
+    <tr>
+        <td></td>
+        <td>Month</td>
+        <td>Mine 2</td>
+        <td>Mine 3</td>
+        <td>Mine 4</td>
+        <td>Mine5</td>
+        <td>Mine 5</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Q1</td>
+        <td>January</td>
+        <td>120</td>
+        <td>110</td>
+        <td>210</td>
+        <td>100</td>
+        <td>150</td>
+    </tr>
+    <tr>
+        <td>February</td>
+        <td>130</td>
+        <td>100</td>
+        <td>180</td>
+        <td>110</td>
+        <td>150</td>
+    </tr>
+    <tr>
+        <td>March</td>
+        <td>100</td>
+        <td>100</td>
+        <td>190</td>
+        <td>100</td>
+        <td>140</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Q2</td>
+        <td>April</td>
+        <td>90</td>
+        <td>120</td>
+        <td>180</td>
+        <td>120</td>
+        <td>140<span style="font-size: 1rem;"></span></td>
+    </tr>
+    <tr>
+        <td>May</td>
+        <td>120</td>
+        <td>100</td>
+        <td>150</td>
+        <td>110</td>
+        <td>130</td>
+    </tr>
+    <tr>
+        <td>June</td>
+        <td>130</td>
+        <td>100</td>
+        <td>120</td>
+        <td>120</td>
+        <td>130</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Q3</td>
+        <td>July</td>
+        <td>150</td>
+        <td>110</td>
+        <td>90</td>
+        <td>110</td>
+        <td>130</td>
+    </tr>
+    <tr>
+        <td>August</td>
+        <td>120</td>
+        <td>110</td>
+        <td>90</td>
+        <td>100</td>
+        <td>120</td>
+    </tr>
+    <tr>
+        <td>September</td>
+        <td>180</td>
+        <td>100</td>
+        <td>80</td>
+        <td>110</td>
+        <td>130</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Q4</td>
+        <td>October</td>
+        <td>170</td>
+        <td>100</td>
+        <td>60</td>
+        <td>100</td>
+        <td>140</td>
+    </tr>
+    <tr>
+        <td>November</td>
+        <td>140</td>
+        <td>120</td>
+        <td>70</td>
+        <td>110</td>
+        <td>110</td>
+    </tr>
+    <tr>
+        <td>December</td>
+        <td>160</td>
+        <td>100</td>
+        <td>80</td>
+        <td>120</td>
+        <td>90</td>
+    </tr>
+</table>
 
 # Подзадачи
 1. Прочитать данные из файла «minings.txt».
