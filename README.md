@@ -6,7 +6,7 @@
 
 <table>
     <tr>
-        <td></td>
+        <td>Quarter</td>
         <td>Month</td>
         <td>Mine 1</td>
         <td>Mine 2</td>
