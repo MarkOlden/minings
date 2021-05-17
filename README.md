@@ -17,7 +17,7 @@
     <tr>
         <td rowspan="3">Q1</td>
         <td>January</td>
-        <td>120</td>
+        <td>140</td>
         <td>110</td>
         <td>210</td>
         <td>100</td>
